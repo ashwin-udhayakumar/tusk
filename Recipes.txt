@@ -6,7 +6,13 @@ Kheer
 pasta
 chicken fry
 
+Beans
+pizza
+
 
 Thankyou
+
+Done my changes
+
 
 final copy
